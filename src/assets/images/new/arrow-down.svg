@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="41px" height="41px" viewBox="0 0 41 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>arrow2@2x</title>
+    <g id="defi" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="记录-收盘记录" transform="translate(-653.000000, -187.000000)" fill-rule="nonzero">
+            <g id="编组-3备份-2" transform="translate(30.000000, 159.000000)">
+                <g id="arrow2" transform="translate(623.000000, 28.000000)">
+                    <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="41" height="41"></rect>
+                    <path d="M4.70710678,12.7071068 L20.2928932,28.2928932 C20.6834175,28.6834175 21.3165825,28.6834175 21.7071068,28.2928932 L37.2928932,12.7071068 C37.6834175,12.3165825 37.6834175,11.6834175 37.2928932,11.2928932 C37.1053568,11.1053568 36.8510029,11 36.5857864,11 L5.41421356,11 C4.86192881,11 4.41421356,11.4477153 4.41421356,12 C4.41421356,12.2652165 4.5195704,12.5195704 4.70710678,12.7071068 Z" id="路径" fill="#626262"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

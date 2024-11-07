@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="750px" height="720px" viewBox="0 0 750 720" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>vip_bg</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="750" height="720"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#887252" offset="0%"></stop>
+            <stop stop-color="#100F15" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50.1536733%" y2="91.9256821%" id="linearGradient-4">
+            <stop stop-color="#F3DDB3" offset="0%"></stop>
+            <stop stop-color="#100F15" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="defi" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="VIP" transform="translate(0.000000, -654.000000)">
+            <g id="vip_bg" transform="translate(0.000000, 654.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="矩形"></g>
+                <g id="编组-17" mask="url(#mask-2)">
+                    <g transform="translate(-64.403991, -41.598363)">
+                        <polygon id="矩形" stroke="none" fill="url(#linearGradient-3)" fill-rule="evenodd" points="39.7304293 115.598363 430.403991 580.098363 815.403991 114.598363 815.403991 761.598363 65.4039914 761.598363"></polygon>
+                        <path d="M629.294516,-53.0697669 L629.294516,550.027717 M659.524117,-53.4835931 L659.524117,549.613891 M639.289191,-52.7434661 L639.289191,550.354018 M668.69964,-52.5837159 L668.69964,550.513768 M649.283866,-52.4171654 L649.283866,550.680319 M679.513467,-52.8309915 L679.513467,550.266493" id="形状结合" stroke="url(#linearGradient-4)" stroke-width="1" fill="none" stroke-linecap="square" transform="translate(654.403991, 248.598363) rotate(40.000000) translate(-654.403991, -248.598363) "></path>
+                        <path d="M189.294516,-38.0697669 L189.294516,565.027717 M219.524117,-38.4835931 L219.524117,564.613891 M199.289191,-37.7434661 L199.289191,565.354018 M228.69964,-37.5837159 L228.69964,565.513768 M209.283866,-37.4171654 L209.283866,565.680319 M239.513467,-37.8309915 L239.513467,565.266493" id="形状结合备份" stroke="url(#linearGradient-4)" stroke-width="1" fill="none" stroke-linecap="square" transform="translate(214.403991, 263.598363) scale(-1, 1) rotate(40.000000) translate(-214.403991, -263.598363) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

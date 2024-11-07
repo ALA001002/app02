@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 6</title>
+    <g id="defi" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="资产修改" transform="translate(-34.000000, -821.000000)">
+            <g id="编组-5备份-2" transform="translate(28.000000, 815.000000)">
+                <g id="编组-8" transform="translate(6.000000, 0.000000)">
+                    <g id="编组-6" transform="translate(0.000000, 6.000000)">
+                        <circle id="椭圆形" fill="#FFFFFF" cx="30" cy="30" r="30"></circle>
+                        <g id="ETH" transform="translate(12.000000, 11.000000)" fill-rule="nonzero">
+                            <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="37" height="37"></rect>
+                            <path d="M19,3 L19,16.2116835 L9,19.182448 L19,3 Z M19,3 L19,16.2116835 L29,19.182448 L19,3 Z M19,35 L19,25.8070312 L9,20.5438756 L19,35 Z M19,35 L19,25.8070312 L29,20.5438756 L19,35 Z" id="形状" fill="#100F15"></path>
+                            <path d="M9,18.3753696 L19,14 L19,23 L9,18.3753696 Z M29,18.3753696 L19,14 L19,23 L29,18.3753696 Z" id="形状" fill="#100F15"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

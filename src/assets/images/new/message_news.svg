@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>message_news@2x</title>
+    <defs>
+        <path d="M9.79258624,45 L8,45 L8,10.8756983 C8,10.6081172 8.12498906,10.3551465 8.33987348,10.1890318 C8.5547579,10.0229172 8.83569071,9.96192197 9.10244064,10.0234657 C9.18522289,10.008622 9.26923609,10.0012992 9.35340266,10.0015912 L38.5196721,10.0663399 C39.6705123,10.0689648 40.3346654,11.0988187 39.825571,12.113798 L33.9960815,23.7230604 C33.9010745,23.9120565 33.9010745,24.326798 33.9942889,24.5105443 L39.8237784,35.9964342 C40.3382505,37.0096635 39.6732012,38.0368925 38.5169832,38.0351425 L9.79258624,38.0010182 L9.79258624,45 Z" id="path-1"></path>
+    </defs>
+    <g id="defi" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="个人中心6消息中心" transform="translate(-63.000000, -590.000000)">
+            <g id="编组备份" transform="translate(30.000000, 538.000000)">
+                <g id="message_news" transform="translate(33.000000, 52.000000)">
+                    <circle id="椭圆形" fill-opacity="0.148042265" fill="#FF547C" cx="48" cy="48" r="48"></circle>
+                    <g id="消息" transform="translate(26.000000, 23.000000)">
+                        <rect id="矩形" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="48" height="48"></rect>
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="路径" fill="#FF547C" fill-rule="nonzero" xlink:href="#path-1"></use>
+                        <circle id="椭圆形" fill-opacity="0.302345116" fill="#FFFFFF" mask="url(#mask-2)" cx="34.5" cy="13.5" r="10.5"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

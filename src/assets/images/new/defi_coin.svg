@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>defi_coin@2x</title>
+    <g id="defi" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="资产3-Defi" transform="translate(-32.000000, -688.000000)">
+            <g id="defi_coin" transform="translate(32.000000, 688.000000)">
+                <circle id="椭圆形" fill-opacity="0.252696644" fill="#EF5316" cx="32" cy="32" r="32"></circle>
+                <g id="编组-6" transform="translate(17.000000, 18.000000)">
+                    <circle id="椭圆形" stroke="#FF861C" stroke-width="2" cx="12" cy="17" r="11"></circle>
+                    <path d="M18,0 C24.627417,0 30,5.372583 30,12 C30,17.1258546 26.7861389,21.5010718 22.2635519,23.2205161 C22.8059925,22.3280278 23.2351048,21.3587657 23.5310616,20.3330428 C26.2244281,18.5413196 28,15.4780133 28,12 C28,6.4771525 23.5228475,2 18,2 C15.1729519,2 12.6199005,3.17311931 10.8010907,5.05911295 C9.73223268,5.16511814 8.70412441,5.41153736 7.73599273,5.77965707 C9.84080178,2.31446208 13.6501151,0 18,0 Z" id="形状结合" fill="#FB841B" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

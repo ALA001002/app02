@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>mine_safe_list</title>
+    <g id="defi" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="个人中心1" transform="translate(-53.000000, -362.000000)" fill-rule="nonzero">
+            <g id="编组-2" transform="translate(20.000000, 335.000000)">
+                <g id="mine_safe_list" transform="translate(33.000000, 27.000000)">
+                    <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="40" height="40"></rect>
+                    <path d="M20.5,2 L7,8.36363636 L7,17.9090909 C7,26.7370766 12.7505695,34.9723708 20.5,37 C28.2494305,35.0035651 34,26.7370766 34,17.9090909 L34,8.36363636 L20.5,2 Z M20.1924829,24.3975045 L18.4396355,26.1755793 L16.6867882,24.3975045 L13.2118451,20.872549 L14.9646925,19.0944742 L18.4396355,22.6194296 L26.2813212,14.6648841 L28.0341686,16.442959 L20.1924829,24.3975045 Z" id="形状" fill="#F7A702"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

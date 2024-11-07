@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>mine_message@2x</title>
+    <g id="defi" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="个人中心1" transform="translate(-32.000000, -780.000000)" fill-rule="nonzero">
+            <g id="编组-13备份-2" transform="translate(30.000000, 780.000000)">
+                <g id="mine_message" transform="translate(2.000000, 0.000000)">
+                    <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="40" height="40"></rect>
+                    <path d="M36,10 L36,35 L3,35 L3,10 L36,10 Z M23.2518462,23.9533333 L19.5,27.6483333 L15.7473077,23.9525 L7.06746153,32.5 L31.9316923,32.5 L23.2518462,23.9525 L23.2518462,23.9533333 Z M33.4615385,13.8975 L25.0473846,22.1841666 L33.4615385,30.4716666 L33.4615385,13.8966666 L33.4615385,13.8975 Z M5.53846154,13.8975 L5.53846154,30.4708333 L13.9526154,22.185 L5.53846154,13.8983333 L5.53846154,13.8975 Z M31.2911538,12.5 L7.70799997,12.5 L19.5,24.1133333 L31.2911538,12.5 Z" id="形状" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

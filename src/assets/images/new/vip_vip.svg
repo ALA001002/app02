@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>vip_vip</title>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="0.437319029%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#E4C281" offset="0%"></stop>
+            <stop stop-color="#F8EACA" offset="100%"></stop>
+        </linearGradient>
+        <path d="M22.7121987,8.61933882 C22.8368027,8.72301093 22.9517105,8.83778575 23.0555028,8.96224554 L28.133728,15.0490627 L33.7353805,10.9172593 C34.6432338,10.2474661 35.8742816,10.2188642 36.812332,10.84577 C37.7503823,11.4726758 38.1935951,12.6201982 37.9201235,13.7139532 L32.5922225,35 L9.40805112,35 L4.08015017,13.7148438 C3.80615179,12.6209434 4.24915957,11.4729801 5.1873411,10.845787 C6.12552263,10.2185938 7.3569087,10.2471912 8.2648931,10.9172593 L13.8665456,15.0490627 L18.9447709,8.96224554 C19.3988738,8.41751555 20.0510687,8.07533885 20.7578096,8.01102736 C21.4645506,7.94671588 22.1679134,8.16554056 22.7130904,8.61933882 L22.7121987,8.61933882 Z M27.2420291,27.3999399 L14.7582445,27.3999399 L14.7582445,30.2500737 L27.2420291,30.2500737 L27.2420291,27.3999399 Z" id="path-2"></path>
+    </defs>
+    <g id="defi" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="VIP" transform="translate(-127.000000, -2075.000000)">
+            <g id="编组-6备份-2" transform="translate(95.000000, 2031.000000)">
+                <g id="vip_vip" transform="translate(32.000000, 44.000000)">
+                    <circle id="椭圆形" fill-opacity="0.19726904" fill="#FFFFFF" cx="36" cy="36" r="36"></circle>
+                    <g id="vip-fill" transform="translate(14.000000, 14.000000)" fill-rule="nonzero">
+                        <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="43" height="43"></rect>
+                        <g id="形状">
+                            <use fill="#000000" xlink:href="#path-2"></use>
+                            <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

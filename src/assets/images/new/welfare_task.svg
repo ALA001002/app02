@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="189px" height="79px" viewBox="0 0 189 79" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>welfare_task</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F8C353" offset="0%"></stop>
+            <stop stop-color="#F2F2F2" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="defi" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="福利中心" transform="translate(-30.000000, -537.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="welfare_task" transform="translate(30.000000, 537.000000)">
+                <path d="M94.079817,0 C141.196021,0 180.343,34.1203131 188.159634,78.9998215 L157.483914,78.9997638 C150.16925,50.8127347 124.555071,30 94.079817,30 C63.6045632,30 37.990384,50.8127347 30.6757197,78.9997638 L1.4898908e-12,78.9998215 C7.81663435,34.1203131 46.9636126,0 94.079817,0 Z" id="形状结合"></path>
+            </g>
+        </g>
+    </g>
+</svg>

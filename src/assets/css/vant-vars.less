@@ -1,0 +1,309 @@
+@import 'vant/lib/index.less';
+// Cell
+@gray-8                   : #fff;
+@tabbar-height            : 57px;
+@tabbar-background-color  : #1B1C20;
+@tabbar-item-active-color : #F5A600;
+@tabbar-item-text-color   : #eee;
+@tabbar-item-margin-bottom: 2px;
+
+
+// Tabs
+@tab-text-color           : #ADABAF;
+@tab-active-text-color    :#fff;
+@tab-font-size            : 20px;
+@tabs-line-height         : 44px;
+@tabs-card-height         : 30px;
+@tabs-nav-background-color: transparent;
+@tabs-bottom-bar-width    : 29px;
+@tabs-bottom-bar-height   : 2px;
+@tabs-bottom-bar-color    : #F5A600;
+
+// ActionSheet
+@action-sheet-item-background      : #1D1D1D;
+@action-sheet-item-font-size       : 16px;
+@action-sheet-item-line-height     : 30px;
+@action-sheet-cancel-text-color    : #F5A600;
+@action-sheet-cancel-padding-top   : 0;
+@action-sheet-cancel-padding-color : #1D1D1D;
+@action-sheet-loading-icon-size    : 22px;
+
+// Cell
+@cell-font-size             : 15px;
+@cell-line-height           : 32px;
+@cell-vertical-padding      : 10px;
+@cell-horizontal-padding    : @padding-md;
+@cell-text-color            : @text-color;
+@cell-background-color      : transparent;
+@cell-border-color          : #17161B;
+@cell-active-color          : #333;
+@cell-required-color        : @red;
+@cell-label-color           : @gray-6;
+@cell-label-margin-top      : @padding-base;
+@cell-value-color           : @gray-6;
+@cell-icon-size             : 16px;
+@cell-right-icon-color      : #ADACB0;
+@cell-large-vertical-padding: @padding-sm;
+@cell-large-title-font-size : @font-size-lg;
+@cell-large-label-font-size : @font-size-md;
+
+// CellGroup
+@cell-group-background-color   : transparent;
+@cell-group-title-color        : @gray-6;
+@cell-group-title-padding      : @padding-md @padding-md @padding-xs;
+@cell-group-title-font-size    : @font-size-md;
+@cell-group-title-line-height  : 16px;
+@cell-group-inset-padding      : 0 @padding-md;
+@cell-group-inset-border-radius: @border-radius-lg;
+@cell-group-inset-title-padding: @padding-md @padding-md @padding-xs @padding-xl;
+
+// Picker
+@picker-background-color     : #1D1D1D;
+@picker-toolbar-height       : 44px;
+@picker-confirm-action-color : #F5A600;
+@picker-cancel-action-color  : #ADACB0;
+@picker-option-text-color    : #fff;
+@picker-loading-icon-color   : #fff;
+@picker-loading-mask-color   : rgba(255, 255, 255, 0.1);
+
+// Popup
+@popup-background-color       : #1D1D1D;
+@popup-round-border-radius    : 16px;
+@popup-close-icon-size        : 22px;
+@popup-close-icon-color       : @gray-5;
+@popup-close-icon-active-color: @gray-6;
+@popup-close-icon-margin      : 16px;
+@popup-close-icon-z-index     : 1;
+
+// Calendar
+@calendar-background-color              : #1D1D1D;
+@calendar-popup-height                  : 80%;
+@calendar-header-box-shadow             : 0 2px 10px rgba(125, 126, 128, 0.16);
+@calendar-header-title-height           : 44px;
+@calendar-month-mark-color              : #444;
+@calendar-month-mark-font-size          : 160px;
+@calendar-day-height                    : 64px;
+@calendar-range-edge-color              : @white;
+@calendar-range-edge-background-color   : #F5A600;
+@calendar-range-middle-color            : #F5A600;
+@calendar-selected-day-color            : #000;
+@calendar-selected-day-background-color : #F5A600;
+@calendar-day-disabled-color            : #666;
+@calendar-header-title-height           : 22px;
+
+// NumberKeyboard
+@number-keyboard-background-color        : #1D1D1D;
+@number-keyboard-key-active-color        : #aaa;
+@number-keyboard-title-color             : #777;
+@number-keyboard-close-color             : #777;
+@number-keyboard-button-text-color       : #777;
+@number-keyboard-button-background-color : #ccc;
+@number-keyboard-cursor-color            : #aaa;
+
+// PasswordInput
+@password-input-height          : 44px;
+@password-input-border-radius   : 16px;
+@password-input-margin          : 0 0;
+@password-input-background-color: #1D1C21;
+@password-input-info-color      : #fff;
+@password-input-dot-size        : 10px;
+@password-input-dot-color       : #ccc;
+
+// Dialog
+@dialog-width                        : 320px;
+@dialog-small-screen-width           : 90%;
+@dialog-background-color             : #1D1B1C;
+@dialog-has-title-message-text-color : #fff;
+@dialog-confirm-button-text-color    : #F5A600;
+
+// Button
+@button-default-color           : #fff;
+@button-default-background-color: #1D1B1C;
+@button-primary-color           : #F5A600;
+@button-primary-background-color: #1D1B1C;
+@button-primary-border-color    : #1D1B1C;
+@button-info-color              : @white;
+@button-info-background-color   : @blue;
+@button-info-border-color       : @blue;
+@button-danger-color            : @white;
+@button-danger-background-color : @red;
+@button-danger-border-color     : @red;
+@button-warning-color           : @white;
+@button-warning-background-color: @orange;
+@button-warning-border-color    : @orange;
+@button-plain-background-color  : @white;
+
+.van-password-input__security {
+  gap: 16px;
+}
+
+.van-password-input__security li {
+  // margin       : 0 8px;
+  // width        : 40px;
+  border-radius: 10px;
+}
+
+// NumberKeyboard
+.van-key {
+  background: #333;
+}
+
+.van-key--active {
+  background: #999;
+}
+
+
+.van-tabs {
+  .van-tabs__wrap {
+    background: #100F15;
+  }
+
+  &[hide-header] .van-tabs__wrap {
+    display: none;
+  }
+
+  &[show-header] .van-tabs__wrap {
+    display: block !important;
+  }
+
+  &[custom] {
+    .van-tab {
+      padding: 0 5px 0 16px;
+      font-size: 16px;
+      flex   : inherit;
+    }
+
+    .van-tabs__line {
+      display: none;
+    }
+  }
+
+  &[small] {
+    .van-tabs__wrap {
+      height: 40px;
+    }
+
+    .van-tab {
+      padding  : 0 16px;
+      flex     : inherit;
+      font-size: 15px;
+    }
+
+    .van-tabs__line {
+      display: block;
+    }
+  }
+
+  &[mini] {
+    .van-tabs__wrap {
+      height: 40px;
+    }
+
+    .van-tab {
+      padding  : 0 16px;
+      flex     : inherit;
+      font-size: 13px;
+    }
+
+    .van-tabs__line {
+      display: block;
+    }
+  }
+
+  &[small-padding] {
+    .van-tab {
+      padding  : 0 6px;
+      font-size: 13px;
+    }
+  }
+
+  &[padding] {
+    .van-tab__pane {
+      padding: 16px;
+    }
+  }
+
+  &[no-padding] {
+    .van-tab__pane {
+      padding: 0;
+    }
+  }
+
+  &[bar-padding] {
+    .van-tabs__wrap {
+      padding: 0 16px;
+    }
+  }
+}
+
+.van-tabs--card {
+  .van-tabs__nav--card {
+    margin       : 0;
+    border       : 3px solid #1D1C21;
+    // gap       : 14px;
+    background   : #1D1C21;
+
+    .van-tab {
+      border-right: none;
+      color       : #DBD9DF;
+      font-size   : 15px;
+      line-height : 24px;
+      font-weight : normal;
+      color       : #87868B;
+    }
+
+    .van-tab--active {
+      color: #DBD9DF;
+    }
+
+    .van-tab--active {
+      background   : #44424D;
+      border-radius: 2px;
+    }
+  }
+}
+
+.van-popup {
+  background: #100F15;
+
+  .van-action-sheet__item {
+    border-bottom: 1px solid #09090B;
+  }
+
+  .van-action-sheet__item:active,
+  .van-action-sheet__cancel:active {
+    background: #333;
+  }
+}
+
+.van-cell__left-icon {
+  width       : 20px;
+  height      : 20px;
+  font-size   : 20px;
+  margin-right: 15px;
+}
+
+.block {
+  display: block;
+}
+
+.height-full {
+  height: 100%;
+}
+
+.van-picker__mask {
+  background-image: none;
+}
+
+[class*='van-hairline']::after {
+  border-color: #09090B;
+}
+
+.van-sticky {
+  background: #100F15;
+}
+
+.tab-title {
+  font-size  : 13px;
+  white-space: nowrap;
+}

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="560px" height="320px" viewBox="0 0 560 320" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>vip_list_bg@2x</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="560" height="320" rx="16"></rect>
+        <linearGradient x1="50%" y1="19.0707793%" x2="71.5167935%" y2="75.9345735%" id="linearGradient-3">
+            <stop stop-color="#F3DDB3" offset="0%"></stop>
+            <stop stop-color="#100F15" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="67.037421%" y1="29.2777612%" x2="-5.21674297%" y2="65.3757569%" id="linearGradient-4">
+            <stop stop-color="#847975" offset="0%"></stop>
+            <stop stop-color="#857C77" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="67.037421%" y1="33.4603332%" x2="-5.21674297%" y2="62.2723176%" id="linearGradient-5">
+            <stop stop-color="#847975" offset="0%"></stop>
+            <stop stop-color="#857C77" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-6" x="14" y="12" width="533" height="296" rx="16"></rect>
+    </defs>
+    <g id="defi" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="VIP" transform="translate(-95.000000, -1311.000000)">
+            <g id="vip_list_bg" transform="translate(95.000000, 1311.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="矩形" fill="#625751" xlink:href="#path-1"></use>
+                <path d="M579.101518,56.0188546 L56.8037754,357.567597 M594.574702,81.9915435 L72.2769596,383.540286 M583.81627,64.8376474 L61.5185281,366.38639 M598.383147,90.3877181 L76.0854045,391.93646 M588.531023,73.6564402 L66.2332808,375.205182 M604.004207,99.6291291 L81.7064651,401.177871 M626.101518,168.018855 L103.803775,469.567597 M641.574702,193.991544 L119.27696,495.540286 M630.81627,176.837647 L108.518528,478.38639 M645.383147,202.387718 L123.085405,503.93646 M635.531023,185.65644 L113.233281,487.205182 M651.004207,211.629129 L128.706465,513.177871 M622.101518,100.018855 L99.8037754,401.567597 M637.574702,125.991544 L115.27696,427.540286 M626.81627,108.837647 L104.518528,410.38639 M641.383147,134.387718 L119.085405,435.93646 M631.531023,117.65644 L109.233281,419.205182 M647.004207,143.629129 L124.706465,445.177871 M669.101518,212.018855 L146.803775,513.567597 M684.574702,237.991544 L162.27696,539.540286 M673.81627,220.837647 L151.518528,522.38639 M688.383147,246.387718 L166.085405,547.93646 M678.531023,229.65644 L156.233281,531.205182 M694.004207,255.629129 L171.706465,557.177871" id="形状结合" stroke="url(#linearGradient-3)" opacity="0.304106213" stroke-linecap="square" mask="url(#mask-2)"></path>
+                <polyline id="路径-2" fill="url(#linearGradient-4)" mask="url(#mask-2)" points="-31.4799702 160 222.673562 -20.1704052 -7 -20.1704052 -31.4799702 150.893367"></polyline>
+                <polyline id="路径-2备份" fill="url(#linearGradient-5)" opacity="0.300193423" mask="url(#mask-2)" points="-31.4799702 241.829595 418.52003 -43.1704052 11.8638562 -43.1704052 -31.4799702 227.424396"></polyline>
+                <mask id="mask-7" fill="white">
+                    <use xlink:href="#path-6"></use>
+                </mask>
+                <rect stroke="#4F4A47" x="14.5" y="12.5" width="532" height="295" rx="16"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

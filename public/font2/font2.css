@@ -1,0 +1,40 @@
+@font-face {
+  font-family: "okcoin"; /* Project id 3230554 */
+  src: url("font.woff2") format("woff2"), url("font.woff") format("woff"), url("font.ttf") format("truetype");
+}
+
+.okcoin {
+  font-family: "okcoin" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.okcoin-setting:before {
+  content: "\e62d";
+}
+
+.okcoin-about:before {
+  content: "\e629";
+}
+
+.okcoin-safe:before {
+  content: "\e62a";
+}
+
+.okcoin-user:before {
+  content: "\e62b";
+}
+
+.okcoin-message:before {
+  content: "\e62c";
+}
+
+.okcoin-back:before {
+  content: "\e600";
+}
+
+.okcoin-arrow-right:before {
+  content: "\e605";
+}

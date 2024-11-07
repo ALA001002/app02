@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>vip_report</title>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="0.437319029%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#E4C281" offset="0%"></stop>
+            <stop stop-color="#F8EACA" offset="100%"></stop>
+        </linearGradient>
+        <path d="M13.2,13.5675382 L0,21.041562 L0,33 L33,33 L33,10.2529711 L16.5,19.1893039 L13.2,13.5675382 Z M13.2,7.68580645 L16.533,13.3725637 L28.05,6.80842105 L28.8915,8.25448217 L33,2.12903226 L25.5585,2.56772496 L26.4,3.9975382 L17.7375,8.92064516 L14.4045,3.25013582 L0,11.4390662 L1.65,14.2499491 L13.2,7.68580645 Z" id="path-2"></path>
+    </defs>
+    <g id="defi" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="VIP" transform="translate(-127.000000, -2795.000000)">
+            <g id="编组-6备份-4" transform="translate(95.000000, 2751.000000)">
+                <g id="vip_report" transform="translate(32.000000, 44.000000)">
+                    <circle id="椭圆形" fill-opacity="0.19726904" fill="#FFFFFF" cx="36" cy="36" r="36"></circle>
+                    <g id="趋势" transform="translate(20.000000, 19.000000)" fill-rule="nonzero">
+                        <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="33" height="33"></rect>
+                        <g id="形状">
+                            <use fill="#000000" xlink:href="#path-2"></use>
+                            <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

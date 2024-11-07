@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1.5rem" height="1.5rem" viewBox="0 0 59 59" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>home_photo</title>
+    <defs>
+        <circle id="path-1" cx="29.5" cy="29.5" r="29.5"></circle>
+    </defs>
+    <g id="defi" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-33.000000, -85.000000)">
+            <g id="home_photo" transform="translate(33.000000, 85.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="椭圆形" fill="#949494" xlink:href="#path-1"></use>
+                <circle id="椭圆形" fill="#D9D9DB" mask="url(#mask-2)" cx="29.5" cy="53.5" r="25.5"></circle>
+                <circle id="椭圆形" fill="#FFFFFD" mask="url(#mask-2)" cx="29" cy="23" r="10"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
